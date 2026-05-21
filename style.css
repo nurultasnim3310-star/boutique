@@ -5,30 +5,30 @@
     font-family:Arial;
 }
 
-body{
+.body{
     background:#f5f5f5;
 }
 
 /* HEADER */
 
-header{
+.header{
     background:black;
     color:white;
     text-align:center;
     padding:20px;
 }
 
-nav{
+.nav{
     margin-top:10px;
 }
 
-nav a{
+.nav a{
     color:white;
     text-decoration:none;
     margin:0 15px;
 }
 
-/* BANNER */
+
 
 .banner{
     background:pink;
@@ -118,7 +118,7 @@ nav a{
     margin-bottom:30px;
 }
 
-form{
+.form{
     width:400px;
     margin:auto;
     background:white;
@@ -128,14 +128,14 @@ form{
 }
 
 input,
-textarea{
+.textarea{
     width:100%;
     padding:10px;
     margin-bottom:15px;
     border:1px solid #ccc;
 }
 
-textarea{
+.textarea{
     height:100px;
 }
 
